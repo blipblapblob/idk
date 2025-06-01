@@ -1,0 +1,16 @@
+[
+  {
+    "seller": "Cam",
+    "seller_id": 123456789012345678,
+    "reason": "10/10 fast and legit",
+    "rating": 5,
+    "timestamp": "2025-06-01T10:55:00.000000"
+  },
+  {
+    "seller": "Cam",
+    "seller_id": 123456789012345678,
+    "reason": "test",
+    "rating": 5,
+    "timestamp": "2025-05-31T14:23:00.000000"
+  }
+]
